@@ -12,7 +12,7 @@ public class Q04 {
 
         // File file2 = new File("consonants.txt");
         // FileInputStream fin2 = new FileInputStream("consonants.txt");
-        FileOutputStream fout = new FileOutputStream("consonants.txt");
+        FileOutputStream fout = new FileOutputStream("d.txt");
 
         int c;
         do{
